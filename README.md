@@ -1,5 +1,7 @@
-### Hi there 👋
+## Hej! 👋
+Jag heter Pilvi Börjesson och pluggar just nu webbutvecklingsprogrammet på Mittuniversitetet
 
+**E-Post:** pibo1900@student.miun.se
 <!--
 **Pilvii/Pilvii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
