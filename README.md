@@ -1,7 +1,7 @@
 ## Hej! 👋
-Jag heter Pilvi Börjesson och pluggar just nu webbutvecklingsprogrammet på Mittuniversitetet
+Jag heter Pilvi Börjesson och har en högskoleexamen intom informatik från Mittuniversitetet. Jag har även pluggat webbutveckling.
 
-**E-Post:** pibo1900@student.miun.se
+**E-Post:** pilviborjesson@gmail.com
 <!--
 **Pilvii/Pilvii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
